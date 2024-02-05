@@ -32,7 +32,7 @@
   <li><strong>Tistory:</strong> <a href="https://cozyhama.tistory.com/">COZY-HAMA</a></li>
 </ul>
 
-<h2>🏅 GitHub Statistics</h2>
+<h2>📊 GitHub Statistics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PINGPINGYEE&show_icons=true&theme=radical" alt="PINGPINGYEE's GitHub stats">
 </p>
@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PINGPINGYEE&layout=compact" alt="PINGPINGYEE's GitHub stats">
 </p>
 
-<h2>🌟 GitHub Languages</h2>
+<h2>🏅 Solved.AC Tier</h2>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=owb0527" alt="PINGPINGYEE's SolvedAC stats">
 </p>
