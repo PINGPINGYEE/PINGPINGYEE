@@ -29,7 +29,7 @@
 <ul>
   <li><strong>E-mail:</strong> <a href="mailto:owb7994@nate.com">owb7994@nate.com</a></li>
   <li><strong>Instagram:</strong> <a href="https://www.instagram.com/o._.u.bean/">o._.u.bean</a></li>
-  <li><strong>Instagram:</strong> <a href="https://www.instagram.com/o._.u.bean/">COZY-HAMA</a></li>
+  <li><strong>Tistory:</strong> <a href="https://cozyhama.tistory.com/">COZY-HAMA</a></li>
 </ul>
 
 <h2>🌟 GitHub Statistics</h2>
