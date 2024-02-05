@@ -42,6 +42,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PINGPINGYEE&layout=compact" alt="PINGPINGYEE's GitHub stats">
 </p>
 
+<h2>🌟 GitHub Languages</h2>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=owb0527" alt="PINGPINGYEE's SolvedAC stats">
+</p>
+
+
 <h2>⚡ 취미</h2>
 <ul>
   <li>🧭 여행</li>
