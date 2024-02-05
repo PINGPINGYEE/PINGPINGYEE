@@ -21,7 +21,7 @@
 
 
 <h2>💼 Experience</h2>
-<p align=center style="color: red; font-size:20px;">🚧공사 중!</p>
+<p align=center style="color:red; font-size:20px;">🚧공사 중!</p>
 
 
 <h2>📫 Contact</h2>
