@@ -7,13 +7,13 @@
   <h4 align="center"><strong>
     Language
     <br><img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=JavaScript&logoColor=white" height="30"/>
-    <img src="https://img.shields.io/badge/C%20Language-lightgray?style=flat&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%20Language-lightgray?style=flat&logo=C&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" height="30"/>
     </h4>
   <h4 align="center"><strong>Framework
-  <br><img src="https://img.shields.io/badge/React-turquoise?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+  <br><img src="https://img.shields.io/badge/React-turquoise?style=flat&logo=React&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" height="30"/>
   </h4>
 </ul>
 
