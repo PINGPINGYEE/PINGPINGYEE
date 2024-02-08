@@ -22,7 +22,7 @@
 
 <h2>💼 Experience</h2>
 <p align=center style="color:red; font-size:20px;">🚧공사 중!</p>
-
+https://pingpingyee.github.io/forjeju___/game1/gMinesMain.html
 
 <h2>📫 Contact</h2>
 <p>아래에서 저에게 연락할 수 있습니다 :></p>
