@@ -9,7 +9,7 @@
     <br><img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%20Language-lightgray?style=flat&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
     </h4>
   <h4 align="center"><strong>Framework
   <br><img src="https://img.shields.io/badge/React-turquoise?style=flat&logo=React&logoColor=white"/>
