@@ -14,7 +14,7 @@
   <h3 align="center" height="20"><strong>Framework
   <br><img src="https://img.shields.io/badge/React-turquoise?style=flat&logo=React&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" height="25"/>
-     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
+     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white height="25"/> 
   </h3>
 </ul>
 
