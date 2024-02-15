@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=387356FF&text=&animation=twinkling&height=150&width=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=387356FF&text=&animation=twinkling&height=150&width=300)
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=2500&pause=1500&color=7BC9AF&background=9A41FF00&center=true&vCenter=true&random=false&width=435&lines=Welcome+To+PINGPINGYEE's+Github+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
 
 <p align="center">🧑‍💻학부 3학년 발효를 목표로 하는 개발자입니다 :)</p>
